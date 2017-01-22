@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FollowTransform : MonoBehaviour
+public class CameraMovement : MonoBehaviour
 {
     //Public vars
     public Transform m_FollowTransform;
